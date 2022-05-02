@@ -1,0 +1,40 @@
+
+.color-nav {
+
+    background-color: #334566;
+}
+
+
+.margin-table {
+
+    margin-top: 1%;
+}
+
+
+.imagen-fondo{
+
+    background-image: url(/asserts/imagenfondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    background-color: #D8D4D3;
+}
+
+
+.bordes-tabla-div{
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.encabezado{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+    background-color: black;
+    color: white;
+}
